@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "effect": "^3.10.16",
+    "prisma": "^5.22.0",
+    "typescript": "^5.7.2"
+  }
+}
